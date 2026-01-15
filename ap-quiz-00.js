@@ -9,6 +9,20 @@
  * Complexity: O(n) time, O(n) extra space (hash map)
  *
  * Exports: twoSum(nums, target)
+ *
+ * Instructions to run the code:
+ *     1. Open your terminal or command prompt.
+ *     2. Run the code directly with Node.js:
+ *        `node ap-quiz-00.js`
+ *        (Note: This file exports the function. To use it, require it in another file.)
+ *
+ *     3. Example usage in Node.js REPL or another file:
+ *        const { twoSum } = require('./ap-quiz-00');
+ *        console.log(twoSum([2, 7, 11, 15], 9)); // [0, 1]
+ *
+ *     4. To run the tests, use Jest:
+ *        `npm test` or `npx jest ap-quiz-00.test.js`
+ *        (See ap-quiz-00.test.js for test setup instructions)
  */
 
 'use strict';
