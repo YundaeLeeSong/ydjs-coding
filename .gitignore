@@ -1,4 +1,4 @@
-# --- Generated from ./.gitignores on Wed Jan 14 21:09:58 2026 ---
+# --- Generated from ./.gitignores on Wed Jan 14 21:23:56 2026 ---
 
 #############################################
 # A.gitignore
@@ -3217,6 +3217,10 @@ result-*
 #############################################
 # Node.gitignore
 #############################################
+package.json
+package-lock.json
+jest/
+
 # Logs
 logs
 *.log
