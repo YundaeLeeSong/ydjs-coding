@@ -1,15 +1,6 @@
 /**
  * ap-quiz-00.js
  *
- * Problem: Two Sum
- * Given an array of integers `nums` and an integer `target`,
- * return indices of the two numbers such that they add up to target.
- * If there is no solution, return null.
- *
- * Complexity: O(n) time, O(n) extra space (hash map)
- *
- * Exports: twoSum(nums, target)
- *
  * Instructions to run the code:
  *     1. Open your terminal or command prompt.
  *     2. Run the code directly with Node.js:

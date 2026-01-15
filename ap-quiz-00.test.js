@@ -1,7 +1,7 @@
 /**
  * ap-quiz-00.test.js
  *
- * JUnit-style tests for the twoSum function in ap-quiz-00.js
+ * JUnit-style tests in ap-quiz-00.js
  *
  * INSTRUCTIONS:
  *     The ap-quiz-00.test.js file provides Jest tests for the twoSum
