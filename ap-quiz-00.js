@@ -23,12 +23,13 @@
  *     4. To run the tests, use Jest:
  *        `npm test` or `npx jest ap-quiz-00.test.js`
  *        (See ap-quiz-00.test.js for test setup instructions)
+ * 
+ * Prefer CommonJS exports (`module.exports`) for broad compatibility with Node.js and Jest.
+ * Use ESM (`export` / `export default`) only when your project is intentionally configured
+ * for modules (e.g. `package.json` has `"type": "module"` or you use a transpiler).
  */
 
 'use strict';
-
-
-
 
 
 
