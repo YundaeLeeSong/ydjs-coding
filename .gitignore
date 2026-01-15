@@ -6,6 +6,7 @@
 #################### ALL PURPOSE GITIGNORE ####################
 project2305*
 
+_*
 _*/
 tmp*/
 remote*/
