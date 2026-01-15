@@ -27,7 +27,6 @@
  *     - If the file is in a src directory, use: require('../src/ap-quiz-00')
  *     - Jest automatically finds files ending in .test.js or .spec.js
  */
-
 const {
   sleepIn,
   frontBack,
@@ -160,9 +159,4 @@ describe('APQuiz00', () => {
     expect(diff21(50)).toBe(58);
   });
 
-});{
-  expect(() => twoSum(null, 5)).toThrow();
-});
-{
-  expect(() => twoSum(null, 5)).toThrow();
 });
